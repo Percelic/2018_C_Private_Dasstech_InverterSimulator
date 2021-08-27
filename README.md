@@ -1,5 +1,9 @@
 # 2018_C_Private_Dasstech_InverterSimulator
 
+  ![image](https://user-images.githubusercontent.com/43790820/131088133-b6b13dba-85b4-49c1-b8c9-228929c29a13.png)
+
 - 디렉토리 설명
   > - IS_Sungchang : 인버터 시뮬레이터
   > - IS_Sungchang_SlaveTest : RS-485 1-N 통신 시 Slave 테스트용 시뮬레이터
+
+
